@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+data/
+notebooks/
+models/
+liar_dataset/
+*.json
